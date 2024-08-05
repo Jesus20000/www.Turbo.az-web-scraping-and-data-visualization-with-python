@@ -8,9 +8,6 @@ This project explores car data from Turbo.az. The details like price, year, engi
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
